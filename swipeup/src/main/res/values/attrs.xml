@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="SwipeUpLayout">
         <attr name="swipeThreshold" format="dimension"/>
+        <attr name="startExpanded" format="boolean"/>
     </declare-styleable>
 </resources>
